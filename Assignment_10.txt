@@ -1,0 +1,10 @@
+Assignment 10 is composed of 3 files excluding this one
+
+Assignment_10.ipynb:
+ Jupiter notebook w solutions to gameshow and decay problems
+
+Decay.png:
+  Image of decay plot
+
+Game.png:
+  Screenshot of gameshow code results
